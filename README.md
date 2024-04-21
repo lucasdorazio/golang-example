@@ -1,2 +1,3 @@
 # golang-example
-A golang web app example
+Welcome.
+This is a golang web app example
